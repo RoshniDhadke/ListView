@@ -1,0 +1,22 @@
+<resources>
+    <string-array name="name">
+        <item> "C"</item>
+        <item>"C++"</item>
+        <item>"Java"</item>
+       <item>"Python"</item>
+        <item>"Kotlin"</item>
+        <item>"JavaScript"</item>
+        <item>"Flutter"</item>
+        <item>"React"</item>
+        <item> "Swift"</item>
+        <item>"ASP.Net"</item>
+        <item>"Ruby"</item>
+        <item>"SQL"</item>
+        <item>"Dart"</item>
+        <item>"Database"</item>
+        <item>"XML"</item>
+        <item>"JSON"</item>
+        <item>"MVVM"</item>
+    </string-array>
+
+</resources>
